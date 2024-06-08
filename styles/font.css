@@ -1,0 +1,56 @@
+@font-face {
+    font-family: Vazir;
+    font-style: normal;
+    font-weight: bold;
+    src: url("../public/fonts/ttf/Vazirmatn-Bold.ttf");
+    
+  }
+
+  @font-face {
+    font-family: Vazir;
+    font-style: normal;
+    font-weight: 100;
+    src: url("../public/fonts/ttf/Vazirmatn-Thin.ttf");
+    
+  }
+
+  @font-face {
+    font-family: Vazir;
+    font-style: normal;
+    font-weight: 800;
+    src: url("../public/fonts/ttf/Vazirmatn-ExtraBold.ttf");
+    
+  }
+
+  @font-face {
+    font-family: Vazir;
+    font-style: normal;
+    font-weight: 300;
+    src: url("../public/fonts/ttf/Vazirmatn-Light.ttf");
+    
+  }
+
+  @font-face {
+    font-family: Vazir;
+    font-style: normal;
+    font-weight: normal;
+    src: url("../public/fonts/ttf/Vazirmatn-Regular.ttf");
+    
+  }
+
+  
+  @font-face {
+    font-family: Vazir;
+    font-style: normal;
+    font-weight: 500;
+    src: url("../public/fonts/ttf/Vazirmatn-Medium.ttf");
+    
+  }
+
+  @font-face {
+    font-family: Vazir;
+    font-style: normal;
+    font-weight: 850;
+    src: url("../public/fonts/ttf/Vazirmatn-Black.ttf");
+    
+  }
